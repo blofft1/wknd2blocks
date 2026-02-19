@@ -40,6 +40,17 @@
     ]
   },
   {
+    "id": "text",
+    "fields": [
+      {
+        "component": "richtext",
+        "name": "text",
+        "label": "Text",
+        "valueType": "string"
+      }
+    ]
+  },
+  {
     "id": "title",
     "fields": [
       {
@@ -380,6 +391,118 @@
   },
   {
     "id": "forex",
+    "fields": []
+  },
+  {
+    "id": "accordion",
+    "fields": []
+  },
+  {
+    "id": "form-accordion",
+    "fields": []
+  },
+  {
+    "id": "form",
+    "fields": []
+  },
+  {
+    "id": "form-button",
+    "fields": []
+  },
+  {
+    "id": "captcha",
+    "fields": []
+  },
+  {
+    "id": "cards",
+    "fields": []
+  },
+  {
+    "id": "checkbox",
+    "fields": []
+  },
+  {
+    "id": "checkbox-group",
+    "fields": []
+  },
+  {
+    "id": "date-input",
+    "fields": []
+  },
+  {
+    "id": "drop-down",
+    "fields": []
+  },
+  {
+    "id": "email",
+    "fields": []
+  },
+  {
+    "id": "file-input",
+    "fields": []
+  },
+  {
+    "id": "form-fragment",
+    "fields": []
+  },
+  {
+    "id": "form-image",
+    "fields": []
+  },
+  {
+    "id": "form-modal",
+    "fields": []
+  },
+  {
+    "id": "number-input",
+    "fields": []
+  },
+  {
+    "id": "panel",
+    "fields": []
+  },
+  {
+    "id": "password",
+    "fields": []
+  },
+  {
+    "id": "radio-group",
+    "fields": []
+  },
+  {
+    "id": "rating",
+    "fields": []
+  },
+  {
+    "id": "form-reset-button",
+    "fields": []
+  },
+  {
+    "id": "form-submit-button",
+    "fields": []
+  },
+  {
+    "id": "telephone-input",
+    "fields": []
+  },
+  {
+    "id": "tnc",
+    "fields": []
+  },
+  {
+    "id": "plain-text",
+    "fields": []
+  },
+  {
+    "id": "text-input",
+    "fields": []
+  },
+  {
+    "id": "wizard",
+    "fields": []
+  },
+  {
+    "id": "range",
     "fields": []
   }
 ]
